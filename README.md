@@ -16,7 +16,7 @@
             <p style="font-size:15px;sans-serif">Наибольшего развития эта игра достигла в США: чемпионат Национальной баскетбольной ассоциации (НБА) более 50 лет является сильнейшим национальным клубным турниром в мире. Баскетбол считается национальным видом спорта в Литве.</p>
             </main>
             <h1 style="font-size:25px;sans-serif;background-color:white">Расписание тренировок</h1> 
-            <table style="border:1px solid red;">
+            <table style="border:1px;">
         <tr>
             <td style="border:1px solid red;">Время</td>
             <td style="border:1px solid red;">Группы</td>
