@@ -34,7 +34,6 @@
             <td style="border:1px solid red;">3 группа(13-15 лет)</td>
         </tr>
     </table>
-            <img src="https://img.theepochtimes.com/assets/uploads/2014/12/03/AP260350567542.jpg"width="600px" height="450px/">
             <footer style="font-size:13px;sans-serif">Наши контакты:89271445335;84959235427</footer>
             <footer style="font-size:13px;sans-serif">Наш адрес: ул.Крапивина, д.5</footer>
     </body>
